@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "prowfish.aternos.host:55585",
+    "ip": "stable-Kyns.aternos.me:55585",
     "port": 55585,
     "version": "1.21.11",
     "try-creative": false
